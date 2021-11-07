@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies Updated Server.js merge process/tesing pull merge.
+ * Module dependencies Updated Server.js merge process/tesing pull merge/checkout to development branach.
  */
 
 const app = require('./app');
