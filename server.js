@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies Updated Server.js.
+ * Module dependencies Updated Server.js merge process.
  */
 
 const app = require('./app');
