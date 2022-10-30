@@ -1,0 +1,6 @@
+Code.py
+
+Def pyhtonfunction{
+
+Print("Hello Devops world)
+}
